@@ -20,7 +20,7 @@ const Feedback = () => {
                         <hr />
                         <p>Words From Our Happy Touriest</p>
                         <h3>"Friendly & Supportive"</h3>
-                        <p>I have traveled with travel and tours many times. The experience with travel and tours has been smooth and amazing.</p>
+                        <p>I have traveled with travelo many times. The experience with travelo has been smooth and amazing.</p>
                         <p>-Barbara</p>
                     </Carousel.Caption>
                 </Carousel.Item>
